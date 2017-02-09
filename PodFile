@@ -1,0 +1,7 @@
+
+
+platform :ios, '8.0'
+#use_frameworks!
+target 'STHttpServerManager' do
+     pod 'XMNetworking', '~> 1.0.0'
+end

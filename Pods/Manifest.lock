@@ -1,0 +1,19 @@
+PODS:
+  - XMNetworking (1.0.0):
+    - XMNetworking/Core (= 1.0.0)
+    - XMNetworking/Lib (= 1.0.0)
+  - XMNetworking/Core (1.0.0):
+    - XMNetworking/Lib/AFNetworking-3.1.0
+  - XMNetworking/Lib (1.0.0):
+    - XMNetworking/Lib/AFNetworking-3.1.0 (= 1.0.0)
+  - XMNetworking/Lib/AFNetworking-3.1.0 (1.0.0)
+
+DEPENDENCIES:
+  - XMNetworking (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  XMNetworking: 997cdb61f537362a2bb7bb4e7e0a36bff03bdad1
+
+PODFILE CHECKSUM: d4036a31e6dac7b9e6ba4a5802a2e294d6161a5d
+
+COCOAPODS: 1.2.0.beta.1
